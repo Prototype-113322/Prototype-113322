@@ -1,1 +1,1 @@
-Hi.
+Hello, I'm Muhammad Sarwar! I'm a software engineering student at Karachi University in Pakistan, currently in my 5th semester. My primary focus is front-end development, and I actively engage in coding challenges, building layouts, landing pages, and preview cards. I enjoy solving complex problems and regularly interact with global programming communities to expand my knowledge
